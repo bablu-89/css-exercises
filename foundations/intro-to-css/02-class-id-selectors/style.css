@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+.share1 {
+
+background-color: #ff00c3e4;
+font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+#second2 {
+    color: rgba(55, 0, 255, 0.97);
+    font-size: 36px;
+}
+
+.only3 {
+    font-size: 24px;
+}
+
+#fourth4 {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+
+}
